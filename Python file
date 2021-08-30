@@ -1,14 +1,14 @@
-# Initialize values
+// Initialize values
 vacation1 = "Summer Vacation"
 vacation2 = "Winter Vacation"
 
-# Import another python script
+// Import another python script
 import vacations as v
 
-# Initialize the month list
+// Initialize the month list
 months = ["January", "February", "March", "April", "May", "June",
           "July", "August", "September", "October", "November", "December"]
-# Initial flag variable to print summer vacation one time
+// Initial flag variable to print summer vacation one time
 flag = 0
 
 # Iterate the list using for loop

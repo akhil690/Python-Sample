@@ -11,7 +11,7 @@ months = ["January", "February", "March", "April", "May", "June",
 // Initial flag variable to print summer vacation one time
 flag = 0
 
-# Iterate the list using for loop
+//Iterate the list using for loop
 for month in months:
     if month == "June" or month == "July":
         if flag == 0:
